@@ -139,7 +139,7 @@ pip install -r requirements.txt
 ---
 
 ## 📝 **License**
-This project is for educational purposes. Modify and improve as needed!
+PRIVATE Liscence
 
 ---
 
@@ -148,12 +148,12 @@ This project is for educational purposes. Modify and improve as needed!
 
 ---
 
-### **📌 What This README Includes**
-✔ **Project Overview**  
-✔ **Step-by-Step Setup (Virtual Environment, API Keys, Dependencies)**  
-✔ **Project Structure Explanation**  
-✔ **How to Run the Project**  
-✔ **How the Chatbot Works**  
-✔ **Troubleshooting Tips**  
+### 📌 What This README Includes
+✔ Project Overview  
+✔ Step-by-Step Setup (Virtual Environment, API Keys, Dependencies)  
+✔ Project Structure Explanation  
+✔ How to Run the Project  
+✔ How the Chatbot Works  
+✔ Troubleshooting Tips  
 
-🔥 Now you have a **clear, professional, and complete `README.md`** for your project! Let me know if you need any tweaks. 🚀🔥
+
